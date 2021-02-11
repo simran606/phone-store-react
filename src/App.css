@@ -1,7 +1,7 @@
 :root{
 --Blue: #2a2a72;
 --lightBlue: #009ffd;
---white:#ffffe9;
+--white:#e6e6e6;
 --dark: #232528;
 --mainYellow: #ffa400;
 }
@@ -14,5 +14,14 @@ body{
 
 a:hover{
   text-decoration: none;
+}
+
+@media only screen and (max-width: 480px){
+
+  h1{
+      font-size: 28px;
+      font-weight: bolder;
+  }
+
 }
 

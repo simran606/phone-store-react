@@ -7,18 +7,26 @@
     height: 50px;
 }
 
-.nav-link{
+.product-text{
     display: inline;
     text-decoration: none;
     color: white;
     font-size: 26px;
+    margin: 0 15px;
 }
 
-.nav-link:hover{
+.product-text:hover{
     color: rgb(218, 217, 205);
     text-decoration: none;
 }
 
 .navbar Button{
    transition: 0.5s ease-in-out ;
+}
+
+@media only screen and (max-width: 480px){
+
+    .navbar{
+        padding: 10px 15px;
+    }
 }

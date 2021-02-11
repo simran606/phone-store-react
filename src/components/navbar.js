@@ -11,7 +11,9 @@ export default class Navbar extends Component {
                 <NavbarBrand>
                   <Link to="/">
                     <img src="../../android-icon-3073.png" alt="brand-nav" />
-                    <Nav.Link>Products</Nav.Link>
+                  </Link>
+                  <Link to="/">
+                    <span className="product-text">Products</span> 
                   </Link>
                 </NavbarBrand>
                   <Link to="/cart">

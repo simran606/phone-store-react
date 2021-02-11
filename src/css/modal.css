@@ -34,3 +34,19 @@
 .continueshopping-btn,.gotocart-btn:hover{
     text-decoration: none;
 }
+
+@media only screen and (max-width: 480px){
+    .mod-div{
+        width: 65vw;
+        text-align: center;
+    }
+    
+    .mod-div h1{
+        font-size: 24px;
+    }
+    
+    .item-img{
+         height: 200px;
+         margin-bottom: 20px
+    }
+}
