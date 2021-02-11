@@ -1,0 +1,27 @@
+.detail-div h1{
+    color: var(--Blue);
+    text-align: center;
+    padding: 40px;
+}
+
+.detail-div img{
+    height: 500px;
+}
+
+.company-text{
+    color: grey;
+}
+
+.detail-div .column-two{
+    padding-top: 70px;
+    margin: 15px 0;
+}
+
+.detail-div Button{
+    margin: 15px 5px;
+}
+
+.detail-div p{
+    margin-bottom: 0.1rem;
+}
+

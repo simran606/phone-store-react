@@ -1,0 +1,47 @@
+
+
+/*****************************************************Cart Column ***********************************************************/
+
+.cartcolumn-div{
+    justify-items: center;
+    text-align: center;
+    font-weight: Bolder;
+}
+
+/*****************************************************Empty Cart***********************************************************/
+
+.emptyCart-div{
+    margin-top: 50px;
+    justify-items: center;
+    text-align: center;
+}
+
+.emptyCart-div h1{
+    color: var(--Blue);
+    font-weight: bold;
+}
+
+/*****************************************************Empty Cart***********************************************************/
+
+.cartItem-div{
+    justify-items: center;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.cartItem-div img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.cartItem-div Button{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    padding: 0 10px;
+    margin:  0 5px;
+}
+
+.cartItem-div i{
+    font-size: 22px;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.modal-div{
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   text-align: center;
+   background: rgba(0,0,0,0.3);
+}
+
+.mod-div{
+    background-color: white;
+    margin: 70px auto;
+    padding: 20px;
+    justify-items: center;
+    width: 410px;
+}
+
+.item-img{
+     height: 300px;
+     margin-bottom: 20px
+}
+
+.continueshopping-btn{
+    display: block;
+    margin: 20px auto 15px ;
+}
+
+.gotocart-btn{
+        display: block;
+        margin: 10px auto ;
+}
+
+.continueshopping-btn,.gotocart-btn:hover{
+    text-decoration: none;
+}

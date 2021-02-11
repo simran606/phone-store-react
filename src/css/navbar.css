@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #2a2a72;
+    padding: 10px 200px;
+}
+
+.navbar img{
+    height: 50px;
+}
+
+.nav-link{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    font-size: 26px;
+}
+
+.nav-link:hover{
+    color: rgb(218, 217, 205);
+    text-decoration: none;
+}
+
+.navbar Button{
+   transition: 0.5s ease-in-out ;
+}

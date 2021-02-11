@@ -1,0 +1,18 @@
+:root{
+--Blue: #2a2a72;
+--lightBlue: #009ffd;
+--white:#ffffe9;
+--dark: #232528;
+--mainYellow: #ffa400;
+}
+
+body{
+  font-family: 'Antic' !important;
+  background: var(--white) !important;
+  color: var(--dark) !important;
+}
+
+a:hover{
+  text-decoration: none;
+}
+

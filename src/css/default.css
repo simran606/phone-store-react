@@ -1,0 +1,16 @@
+.default-div{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.big-h{
+    font-size: 100px;
+}
+
+.bold-h{
+    font-weight: bolder;
+}
+
+.red-span{
+    color:red;
+}
